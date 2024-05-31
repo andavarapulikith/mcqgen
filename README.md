@@ -24,9 +24,14 @@ This application leverages Langchain, a powerful natural language processing (NL
 
 - **JSON Configuration**: Loads configuration and response templates from JSON files, allowing for flexible and dynamic MCQ generation.
 
-## Ideal Users
 
-This application is ideal for educators looking to enhance their teaching materials, students preparing for exams, and anyone interested in automated content generation.
+## Technology Stack
+
+- **Langchain**: NLP framework for processing and generating text-based questions.
+- **OpenAI**: Utilizes OpenAI's language models for advanced text understanding and question generation.
+- **Streamlit**: Framework for creating the user interface and interactive web application.
+
+
 
 
 ## Images
