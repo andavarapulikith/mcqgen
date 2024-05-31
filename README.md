@@ -31,5 +31,6 @@ This application is ideal for educators looking to enhance their teaching materi
 
 ## Images
 ![image](https://github.com/andavarapulikith/mcqgen/assets/108012282/cdf8c8bf-b3be-4942-8a52-7759c2ab6d8d)
-![Uploading image.png…]()
+![image](https://github.com/andavarapulikith/mcqgen/assets/108012282/4b7754de-bc39-44b9-b054-a4a553ca4aed)
+
 
